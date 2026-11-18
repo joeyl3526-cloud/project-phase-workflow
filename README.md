@@ -62,6 +62,7 @@
 | 内容 | 入口 |
 | --- | --- |
 | 阶段工作流、分工和 A/B 推进规则 | [project-phase-workflow 技能](skills/project-phase-workflow/SKILL.md) |
+| 4.2.6 测试边界改动和另一台电脑的安装步骤 | [测试边界设计与复刻指南](docs/skill-4.2.6-testing-design.md) |
 | 本机桥接实现 | [phase_bridge.py](bridge/phase_bridge.py) |
 | 1.3.2 变更、检查结果及限制 | [桥接检查记录](docs/bridge-1.3.2-review.md) |
 
